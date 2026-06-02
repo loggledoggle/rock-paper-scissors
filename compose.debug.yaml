@@ -1,0 +1,6 @@
+services:
+  cpractrice:
+    image: cpractrice
+    build:
+      context: .
+      dockerfile: ./Dockerfile

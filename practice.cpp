@@ -4,7 +4,7 @@
 
 using namespace std;
 //rock paper scissors game
-
+//SECOND COMMIT
 bool runAgain(void);
 void gameCondition(string arg[]);
 
